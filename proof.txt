@@ -1,0 +1,7 @@
+OS Node: huni98-VirtualBox
+OS Name: Linux
+Release: 6.14.0-36-generic
+------------------------------------------------
+KERNEL DEEP CHECK:
+Linux version 6.14.0-36-generic (buildd@lcy02-amd64-067) (x86_64-linux-gnu-gcc-13 (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0, GNU ld (GNU Binutils for Ubuntu) 2.42) #36~24.04.1-Ubuntu SMP PREEMPT_DYNAMIC Wed Oct 15 15:45:17 UTC 2
+------------------------------------------------
